@@ -1,0 +1,52 @@
+body {
+	font-family: CopperPot Bold;
+}
+a{
+	color: black ;
+}
+a:hover{
+	text-decoration: none;
+}
+.global a:hover {
+	background: rgba(213,66,21,0.15);
+	color: rgba(0,0,0,0.95);
+}
+.signing a:hover {
+	color: white;
+	background: rgb(181, 40, 17);
+	border-color: rgb(181, 40, 17);
+}
+
+footer i{
+	padding: 13px;
+}
+.list li {
+	margin: 30px;
+	list-style-type: none;
+	text-align: center;
+}
+.list li:hover {
+	 text-decoration: underline;
+	 color: black;
+
+}
+.bg-color {
+	background-color: #F2F2F2;
+}
+.btn-border{
+	border: 2px solid #d54215;
+	color: rgba(0,0,0,0.95);
+	background: #fff;
+}
+.btn-border:hover{
+	background: yellow;
+}
+.btn-red{
+	border: 2px solid #d54215;
+	color: white;
+	background: #d54215;
+	width:150px;
+	font-size: 16px;
+	padding: 12px 12px;	
+}
+
